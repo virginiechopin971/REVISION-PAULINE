@@ -1,0 +1,14 @@
+CORRECTION DE LA GALERIE « CAS PARTICULIERS »
+
+Contenu : une seule page HTML corrigée, contenant directement les neuf images conservées, le style et le fonctionnement de la galerie.
+
+INSTALLATION :
+1. Décompressez cette archive ZIP.
+2. Sur GitHub, ouvrez le dépôt REVISION-PAULINE à la RACINE (pas dans un sous-dossier).
+3. Add file / Upload files.
+4. Déposez le dossier « physique » extrait.
+5. Validez avec Commit changes. Le chemin du fichier à remplacer est :
+   physique/mecanique-newton/fiches-de-revision/repere-cartesien/cas-particuliers/index.html
+6. Après publication GitHub Pages, rechargez la galerie avec Ctrl+F5.
+
+Ce ZIP ne contient AUCUN autre fichier du site et ne supprime pas les fichiers image d'origine. Il rend seulement la page de ces neuf fiches autonome.
