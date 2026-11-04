@@ -1,0 +1,26 @@
+RÉVISIONS DE PAULINE — MISE EN LIGNE
+
+Le dossier contient le site complet avec :
+- page d'accueil : Chimie et Physique uniquement ;
+- Chimie > Acide-base > Fiches de révision / Quiz ;
+- Physique > Mécanique de Newton > Fiches de révision / Quiz.
+
+CONTENUS CONSERVÉS :
+- Quiz de Chimie : 5 exercices guidés (30 questions), 50 questions, 120 questions.
+- Quiz de Physique : les 5 QCM corrigés de Newton (220 questions).
+- Ancienne URL chimie.html et anciens liens directs des 5 QCM de Newton : toujours fonctionnels.
+- Rubriques Fiches de révision : prêtes, à compléter avec les fiches quand elles seront choisies.
+
+INSTALLATION DEPUIS UN ORDINATEUR :
+1. Décompresser ce fichier ZIP dans un dossier.
+2. Ouvrir le dépôt GitHub REVISION-PAULINE sur la branche main.
+3. Choisir « Add file » puis « Upload files ».
+4. Déposer TOUT le contenu décompressé, avec les sous-dossiers
+   (index.html, chimie.html, assets, chimie, physique, GUIDE_INSTALLATION.txt).
+   Attention : ne pas déposer le ZIP lui-même.
+5. Valider en bas avec « Commit changes ».
+6. Recharger le site après publication.
+
+IMPORTANT : les anciens fichiers non remplacés peuvent rester dans le dépôt.
+Ne pas supprimer manuellement les quiz qui s'y trouvent.
+Les liens sont relatifs, le site fonctionne aussi hors connexion (ouvrir index.html).
