@@ -1,0 +1,22 @@
+FINAL DU FINAL — CHIMIE DE PAULINE
+
+Cette série est entièrement séparée des QCM précédents.
+
+CONTENU
+  index.html : 3 exercices guidés complets de type bac, 20 questions chacun.
+  Exercice 1 : acide faible, pH, avancement, Ka/pKa, Qr, diagrammes et tampon.
+  Exercice 2 : NH4+/NH3, équilibre, diagrammes, indicateur et tampon.
+  Exercice 3 : dosage acide faible/base forte, demi-équivalence et tampon.
+
+POUR TESTER
+  Double-cliquer sur index.html sur un PC ; Chrome ou un autre navigateur s'ouvre.
+  Le fichier est autonome : pas besoin d'une connexion internet.
+
+POUR GITHUB (PLUS TARD, UNIQUEMENT SI TU LE DÉCIDES)
+  Garder ce dossier séparé, par exemple :
+    REVISION-PAULINE/chimie/acide-base/final-du-final/index.html
+  Ne remplacer aucun des QCM précédents.
+  L'adresse future serait alors :
+    https://virginiechopin971.github.io/REVISION-PAULINE/chimie/acide-base/final-du-final/
+  Ajouter ensuite seulement un lien depuis la page Acide-base.
+  Ne pas créer ces modifications sans les vérifier avec l'utilisatrice.
